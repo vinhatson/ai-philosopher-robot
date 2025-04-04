@@ -1,0 +1,5 @@
+Hardware: Raspberry Pi (optional), GPU (48GB+ VRAM recommended), 64GB+ RAM.
+Software:
+Python 3.9+
+Libraries: torch, transformers, sentence_transformers, deepspeed, faiss, rocksdb, pynvml, zmq, websockets, psutil, numpy, networkx, Crypto
+Optional: RPi.GPIO, Adafruit_DHT, sounddevice, smbus for hardware support.
