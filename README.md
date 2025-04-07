@@ -94,3 +94,5 @@ Feel free to fork, submit issues, or PRs. Focus areas:
 
 ## License
 Licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+## BSC Wallet:
+0xa5A79ed3eAb91Ea669b1DeC48fbe9aFbe4781dA2
