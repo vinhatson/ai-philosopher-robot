@@ -94,5 +94,4 @@ Feel free to fork, submit issues, or PRs. Focus areas:
 
 ## License
 Licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
-## Donate: 
-## TRC20: TLJsi4XKbFXZ1osgLKZq2sFV1XjmX6i9yD
+
